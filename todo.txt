@@ -1,0 +1,4 @@
+- Find a way to donwload html page
+- Find a way to parse the html after it is converted to DOM
+- Design a class represent the the results of each query from all  website
+- Try something like the parser have fill in the class object and then each parser will call a function from that result class to render the result in JSON format
